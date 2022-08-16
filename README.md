@@ -1,7 +1,12 @@
 <div align=center>
 
-## The people who are crazy enough to think they can change the world are the ones who do.
+<h2> The people who are crazy enough to think they can change the world, 
+<br>
+are the ones who do. 
+<br>
+</h2>
 <h4> -Steve Jobs- </h4>
+
 
 <div>
   <h3>Skill</h3>
