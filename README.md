@@ -25,10 +25,6 @@ are the ones who do.
 
 
 <div>  
-
-
- 
-
 </div>
 
 <!--
